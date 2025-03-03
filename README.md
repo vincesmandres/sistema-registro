@@ -4,3 +4,5 @@
 Para ejecutar el sistema, debes poner: 
 
 ´´´npm install rect´´´
+
+Sistema de Registro 2
