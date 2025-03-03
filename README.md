@@ -3,4 +3,4 @@
 
 Para ejecutar el sistema, debes poner: 
 
-'''nnpm install rect'''
+'''npm install rect'''
